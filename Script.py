@@ -1,12 +1,12 @@
 class script(object):
     START_TXT = """Hᴀɪɪ {} 🖖🤟
-Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'> Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>.... I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Bᴜᴛᴛᴏɴs. Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Tʜᴇ Mᴀᴊɪᴄ. 😛
+Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'> Clanzy Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>.... I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Bᴜᴛᴛᴏɴs. Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Tʜᴇ Mᴀᴊɪᴄ. 😛
 
-©️ Powered By <a href="https://t.me/media_bot_updates">Bᴏᴛ Sʜᴀᴅᴏᴡ ♾</a>"""
+©️ Powered By <a href="https://t.me/szteambots">SZ Team bots ♾</a>"""
     HELP_TXT = """Hᴇʏ {}
 Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.☺️😛"""
     ABOUT_TXT = """○ Mʏ Nᴀᴍᴇ :  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾
-○ Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/darkz_hacker_devil"></> Rᴀᴠɪᴅᴜ Yᴀsᴀs 🇱🇰 </> ♰</a>
+○ Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/Oshebrosl1"></> Akash Oshada </> ♰</a>
 ○ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
 ○ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3
 ○ Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ DB
