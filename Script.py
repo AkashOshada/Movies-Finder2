@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'> Clanzy Dᴇᴛᴇᴄᴛɪᴠᴇ B�
     HELP_TXT = """Hᴇʏ {}
 Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.☺️😛"""
     ABOUT_TXT = """○ Mʏ Nᴀᴍᴇ :  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾
-○ Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/Oshebrosl1"></> Akash Oshada </> ♰</a>
+○ Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/Oshebrosl1"></> Akash Oshada </> ☸</a>
 ○ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
 ○ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3
 ○ Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ DB
