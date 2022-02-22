@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Hᴀɪɪ {} ✌�
+    START_TXT = """Hᴀɪɪ {} ✌
 Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'> Clanzy Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>.... I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Bᴜᴛᴛᴏɴs. Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Tʜᴇ Mᴀᴊɪᴄ. 😛
 
 ©️ Powered By <a href="https://t.me/szteambots">SZ Team Bots ♾</a>"""
