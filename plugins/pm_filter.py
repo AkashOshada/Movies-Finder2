@@ -367,9 +367,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{EVAMARIABOT.username}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🧑‍💻 Developer', url=f'https://t.me/darkz_hacker_devil'),
+            InlineKeyboardButton('🧑‍💻 Developer', url=f'https://t.me/Oshebrosl1'),
             ],[
-            InlineKeyboardButton('🎥 Films/TV Series', url=f'https://t.me/filmsandtvserieschannel'),
+            InlineKeyboardButton('🎥 Films/TV Series', url=f'https://t.me/filmshortgroup'),
             InlineKeyboardButton('📺 Sinhala Subtitles ', url=f'https://t.me/DATABASEFATSG')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
@@ -553,7 +553,7 @@ async def auto_filter(client, message):
             )
         imdb=await get_poster(search)
         if imdb and imdb.get('poster'):
-            await message.reply_photo(photo=imdb.get('poster'), caption=f"<b>✅ I ꜰᴏᴜɴᴅ ɪᴛ Fᴏʀ Yᴏᴜ 😌❤️🙈\n\n🎬 Film/Series: {search}</b> \n\n‌‌‌‌★ ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ғɪʟᴇs\n\n🏷 Title: <a href={imdb['url']}>{imdb.get('title')}</a>\n🎭 Genres: {imdb.get('genres')}\n📆 Year: <a href={imdb['url']}/releaseinfo>{imdb.get('year')}</a>\n🌟 Rating: <a href={imdb['url']}/ratings>{imdb.get('rating')}</a> / 10\n\n©️ [Bᴏᴛ Sʜᴀᴅᴏᴡ ♾](https://t.me/media_bot_updates)", reply_markup=InlineKeyboardMarkup(btn))
+            await message.reply_photo(photo=imdb.get('poster'), caption=f"<b>✅ I ꜰᴏᴜɴᴅ ɪᴛ Fᴏʀ Yᴏᴜ,I'm Clanzy 😌❤️🙈\n\n🎬 Film/Series: {search}</b> \n\n‌‌‌‌★ ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ғɪʟᴇs\n\n🏷 Title: <a href={imdb['url']}>{imdb.get('title')}</a>\n🎭 Genres: {imdb.get('genres')}\n📆 Year: <a href={imdb['url']}/releaseinfo>{imdb.get('year')}</a>\n🌟 Rating: <a href={imdb['url']}/ratings>{imdb.get('rating')}</a> / 10\n\n©️ [SZ TEAM](https://t.me/szteambots)", reply_markup=InlineKeyboardMarkup(btn))
         elif imdb:
             await message.reply_text(f"<b>Query: {search}</b> \n‌‌‌‌IMDb Data:\n\n🏷 Title: <a href={imdb['url']}>{imdb.get('title')}</a>\n🎭 Genres: {imdb.get('genres')}\n📆 Year: <a href={imdb['url']}/releaseinfo>{imdb.get('year')}</a>\n🌟 Rating: <a href={imdb['url']}/ratings>{imdb.get('rating')}</a> / 10", reply_markup=InlineKeyboardMarkup(btn))
         else:
