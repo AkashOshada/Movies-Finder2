@@ -2,7 +2,7 @@ class script(object):
     START_TXT = """Hᴀɪɪ {} ✌
 Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'> Clanzy Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ 😊</a>.... I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Bᴜᴛᴛᴏɴs. Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Tʜᴇ Mᴀᴊɪᴄ. 😛
 
-©️ Powered By <a href="https://t.me/szteambots">SZ Team Bots ✌</a>"""
+©️ Powered By <a href="https://t.me/Darkenbotsupport">Darken Bots ✌</a>"""
     HELP_TXT = """Hᴇʏ {}
 Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.☺️😛"""
     ABOUT_TXT = """○ Mʏ Nᴀᴍᴇ :  Clanzy Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ 😉
