@@ -14,11 +14,11 @@ Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ 
 ○ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : v1.0.1 [ Bᴇᴛᴀ ]
 ○ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : 🔐"""
     SOURCE_TXT = """<b>NOTE:</b>
--  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ is a Locked project. 
+- Clanzy Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ is a Locked project. 
 - Source - 🔐
 
 <b>DEVS:</b>
-- <a href="https://t.me/media_bot_updates">Team  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>"""
+- <a href="https://t.me/Darkenbotsteam">Team  Clanzy Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
@@ -35,7 +35,7 @@ Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ 
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--  Mᴏᴠɪᴇs Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ Supports both url and alert inline buttons.
+-  Clanzy Dᴇᴛᴇᴄᴛɪᴠᴇ Bᴏᴛ ♾ Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
