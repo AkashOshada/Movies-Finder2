@@ -27,7 +27,7 @@ async def start(client, message):
             InlineKeyboardButton('🧑‍💻 Developer', url=f'https://t.me/Oshebrosl1'),
             ],[
             InlineKeyboardButton('🎥 Films/TV Series', url=f'https://t.me/filmshortgroup'),
-            InlineKeyboardButton('📺 Give Movies', url=f'https://t.me/clanzymoviegivs')
+            InlineKeyboardButton('💁‍♂️ Support', url=f'https://t.me/clanzymoviegivs')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
